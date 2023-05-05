@@ -22,3 +22,4 @@ btn.addEventListener('click', e => {
     estaQuebrado = true;
     }
 });
+
